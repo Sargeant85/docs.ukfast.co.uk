@@ -8,7 +8,7 @@
 
 # Changes to How Alerting Routing Works in LogicMonitor Compared to the Current Monitoring in the Portal
 
-When a device is onboarded into LogicMonitor, the alerting behaviour differs slightly from the existing system used in the portal. Below is a breakdown of how the process works and what to expect.
+When a device is onboarded into LogicMonitor, Below is a breakdown of how the process works and what to expect.
 
 **Default Case Contact**
 
